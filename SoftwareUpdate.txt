@@ -1,1 +1,1 @@
-add yolov10
+Python refactorings and simplifications (#7549)
