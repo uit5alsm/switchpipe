@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Cleanup Docs languages (#7865)
