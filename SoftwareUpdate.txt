@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
