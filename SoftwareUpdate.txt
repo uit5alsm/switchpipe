@@ -1,1 +1,1 @@
-fix predict with class filter
+New test for labels and crops (#8861)
