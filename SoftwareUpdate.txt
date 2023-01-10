@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
