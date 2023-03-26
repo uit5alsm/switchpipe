@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Expand Model method type hinting (#8279)
