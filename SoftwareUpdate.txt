@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
