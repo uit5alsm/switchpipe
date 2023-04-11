@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update Docs Home and Neural Magic pages (#7243)
