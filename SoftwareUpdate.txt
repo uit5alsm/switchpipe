@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add visuals in guides/distance-calculation.md (#7876)
