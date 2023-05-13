@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
