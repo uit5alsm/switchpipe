@@ -1,1 +1,1 @@
-fix predict with class filter
+Add horizontal Mosaic3 augmentation (#6898)
