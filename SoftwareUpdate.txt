@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix RTDETR generate anchor grid out of boundary (#7247)
