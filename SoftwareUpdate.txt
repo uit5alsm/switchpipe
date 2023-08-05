@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
