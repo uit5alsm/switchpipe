@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
