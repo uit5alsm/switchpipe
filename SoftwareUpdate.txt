@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update CITATION.cff with cffinit corrections (#8658)
