@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
