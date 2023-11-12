@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+fix yolo classify model loading error (#9196)
