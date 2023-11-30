@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
