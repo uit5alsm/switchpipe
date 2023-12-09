@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
