@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
