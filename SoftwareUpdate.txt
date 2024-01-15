@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
