@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+YOLOv8 INT8 TFLite Inference Example (#7317)
