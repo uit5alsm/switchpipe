@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add visuals in guides/distance-calculation.md (#7876)
