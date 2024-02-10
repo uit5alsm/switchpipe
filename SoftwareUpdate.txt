@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix Multi-GPU resume bug (#7328)
