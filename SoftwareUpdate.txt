@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Python refactorings and simplifications (#7549)
