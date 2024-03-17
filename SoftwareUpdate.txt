@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix TypeError in check_cfg() (#9245)
