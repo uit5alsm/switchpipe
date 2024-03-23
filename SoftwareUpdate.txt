@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add TensorRT Docs Integrations Page (#7855)
