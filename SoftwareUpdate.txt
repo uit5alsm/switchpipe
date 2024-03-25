@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
