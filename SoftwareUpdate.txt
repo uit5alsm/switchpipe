@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
