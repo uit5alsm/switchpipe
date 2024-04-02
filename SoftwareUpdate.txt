@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
