@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
