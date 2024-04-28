@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
