@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Batch inference fixes (#8854)
