@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
