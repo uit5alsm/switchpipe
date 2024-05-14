@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
