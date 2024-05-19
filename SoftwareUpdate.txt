@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
